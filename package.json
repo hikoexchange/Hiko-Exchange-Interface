@@ -1,6 +1,6 @@
 {
-  "name": "@daoswapdex/daoswap-interface",
-  "description": "Daoswap Interface",
+  "name": "@hikoexchange/Hiko-Exchange-Interface",
+  "description": "Hiko Interface",
   "homepage": ".",
   "private": true,
   "devDependencies": {
